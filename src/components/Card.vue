@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Bai 3</h1>
     <div class="image">
         <p>Image</p>
     </div>
